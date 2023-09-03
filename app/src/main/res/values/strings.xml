@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">submission</string>
+    <string name="mounts_name">Title</string>
+    <string name="desc">Descriptions</string>
+    
+    
+    
+    <string-array name="data_name">
+        <item>Gunung Bromo</item>
+        <item>Gunung Fuji</item>
+        <item>Gunung Merapi</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Sindoro</item>
+    </string-array>
+
+
+    <string-array name="data_desc">
+        <item>
+            Gunung Bromo adalah salah satu gunung berapi aktif yang terletak di Jawa Timur, Indonesia. Gunung ini merupakan bagian dari Taman Nasional Bromo Tengger Semeru, yang meliputi empat kabupaten, yaitu Probolinggo, Pasuruan, Lumajang, dan Malang. Gunung Bromo memiliki ketinggian 2.329 meter di atas permukaan laut dan termasuk dalam kawasan pegunungan Tengger, bersama dengan Gunung Batok, Gunung Kursi, Gunung Watangan, dan Gunung Widodaren.
+            Gunung Bromo terkenal dengan pemandangan sunrise yang indah dan fenomena pasir berbisik, yaitu suara gemerisik yang dihasilkan oleh angin yang berhembus di lautan pasir Bromo. Selain itu, Gunung Bromo juga menjadi tempat penyelenggaraan upacara Yadnya Kasada, yaitu ritual adat masyarakat Tengger yang mempersembahkan sesaji kepada dewa-dewa di puncak gunung. Upacara ini biasanya dilakukan pada bulan Kasada, yaitu bulan ke-12 dalam kalender Jawa.
+            Gunung Bromo merupakan salah satu destinasi wisata favorit baik bagi wisatawan lokal maupun mancanegara. Untuk mencapai lokasi ini, wisatawan dapat menggunakan kendaraan pribadi atau menyewa jeep dari desa-desa sekitar. Wisatawan juga dapat menikmati keindahan Gunung Bromo dengan berjalan kaki atau berkuda di lautan pasir. Beberapa spot menarik yang dapat dikunjungi di sekitar Gunung Bromo antara lain Penanjakan, Bukit Cinta, Bukit Teletubbies, Padang Savana, dan Kawah Bromo.
+        </item>
+
+        <item>
+            Gunung Fuji adalah gunung tertinggi dan paling terkenal di Jepang. Gunung ini merupakan simbol budaya dan keindahan alam negeri sakura. Gunung Fuji memiliki ketinggian 3.776 meter dan terletak di perbatasan antara prefektur Shizuoka dan Yamanashi. Gunung ini termasuk dalam jenis gunung berapi aktif, meskipun erupsi terakhirnya terjadi pada tahun 1707.
+            Gunung Fuji memiliki bentuk kerucut yang hampir sempurna dan sering ditutupi oleh salju di puncaknya. Gunung ini menjadi objek lukisan, puisi, dan fotografi yang menawan. Banyak orang yang mendaki gunung ini untuk menyaksikan matahari terbit dari puncaknya. Gunung Fuji juga menjadi tempat ziarah bagi penganut agama Shinto, yang menganggap gunung ini sebagai tempat tinggal dewi Sengen.
+            Gunung Fuji merupakan salah satu warisan dunia yang ditetapkan oleh UNESCO pada tahun 2013. Gunung ini diakui sebagai sumber inspirasi bagi seniman dan budayawan Jepang sejak abad ke-11. Gunung ini juga memiliki nilai sejaris, religius, dan pendidikan yang tinggi. Gunung Fuji adalah salah satu keajaiban alam yang patut dikagumi dan dilestarikan.
+        </item>
+
+        <item>
+            Gunung Merapi adalah salah satu gunung berapi aktif di Indonesia yang terletak di perbatasan Provinsi Jawa Tengah dan Daerah Istimewa Yogyakarta. Gunung ini memiliki ketinggian 2.968 meter di atas permukaan laut dan merupakan gunung berapi paling aktif di Pulau Jawa. Gunung Merapi memiliki sejarah erupsi yang panjang dan sering menimbulkan bencana bagi masyarakat sekitarnya. Erupsi terakhir yang terjadi pada tahun 2020 mengeluarkan abu vulkanik, lava pijar, dan awan panas yang mengancam keselamatan dan kesehatan penduduk. Gunung Merapi juga memiliki nilai budaya dan keagamaan yang tinggi bagi masyarakat Jawa, khususnya bagi mereka yang tinggal di lereng gunung. Mereka percaya bahwa Gunung Merapi adalah tempat tinggal para leluhur dan roh-roh halus yang harus dihormati dan diselaraskan. Oleh karena itu, mereka melakukan berbagai ritual dan upacara untuk menjaga keseimbangan alam dan sosial.
+        </item>
+
+        <item>
+            Gunung Merbabu adalah salah satu gunung berapi yang terletak di Pulau Jawa, Indonesia. Gunung ini memiliki ketinggian 3.145 meter di atas permukaan laut dan termasuk dalam kawasan Taman Nasional Gunung Merbabu. Gunung Merbabu memiliki beberapa puncak, yaitu Puncak Kenteng Songo, Puncak Syarif, Puncak Triangulasi, Puncak Condrodimuko, dan Puncak Suwanting. Gunung ini juga dikenal sebagai gunung berapi bertipe strato yang memiliki kubah lava di puncaknya.
+            Gunung Merbabu merupakan salah satu destinasi wisata alam yang populer di Indonesia. Banyak pendaki yang tertarik untuk menikmati keindahan alam dan tantangan medan di gunung ini. Ada beberapa jalur pendakian yang bisa dipilih, yaitu jalur Selo, jalur Thekelan, jalur Suwanting, jalur Chuntel, dan jalur Wekas. Setiap jalur memiliki karakteristik dan tingkat kesulitan yang berbeda-beda. Jalur Selo adalah jalur yang paling banyak digunakan karena memiliki akses yang mudah dan fasilitas yang lengkap. Jalur Thekelan adalah jalur alternatif dari Selo yang lebih sepi dan alami. Jalur Suwanting adalah jalur yang paling panjang dan melewati hutan pinus dan savana. Jalur Chuntel adalah jalur yang paling curam dan menantang dengan medan berbatu dan berpasir. Jalur Wekas adalah jalur yang paling baru dan jarang dilalui oleh pendaki.
+            Gunung Merbabu memiliki berbagai macam flora dan fauna yang khas dan langka. Di kawasan hutan di kaki gunung, terdapat berbagai jenis pohon seperti pinus, mahoni, rasamala, jamuju, dan edelweis. Di kawasan savana di lereng gunung, terdapat berbagai jenis rumput seperti ilalang, bluntas, dan sembung. Di kawasan puncak gunung, terdapat berbagai jenis lumut dan bunga seperti bunga abadi, bunga kupu-kupu, dan bunga bakung. Di sisi fauna, terdapat berbagai jenis hewan seperti monyet ekor panjang, lutung jawa, rusa sambar, babi hutan, burung elang jawa, burung merak, burung ciblek, dan burung gereja.
+            Gunung Merbabu menyimpan banyak potensi dan nilai yang perlu dilestarikan dan dikembangkan. Gunung ini memiliki potensi geologi, biologi, budaya, sejarah, dan pariwisata yang tinggi. Gunung ini juga memiliki nilai religi bagi masyarakat sekitar yang menganggapnya sebagai tempat suci dan keramat. Oleh karena itu, perlu adanya upaya bersama dari semua pihak untuk menjaga kelestarian alam dan kearifan lokal di Gunung Merbabu.
+        </item>
+        <item>
+            Gunung Semeru adalah gunung tertinggi di Pulau Jawa dengan ketinggian 3.676 meter di atas permukaan laut. Gunung ini terletak di perbatasan antara Kabupaten Malang, Kabupaten Lumajang, dan Kabupaten Probolinggo. Gunung Semeru merupakan salah satu gunung berapi aktif di Indonesia yang sering mengeluarkan awan panas dan letusan kecil. Gunung ini juga dikenal dengan nama Mahameru, yang berarti gunung agung atau gunung suci dalam bahasa Jawa dan Sanskerta.
+            Gunung Semeru memiliki kawah yang bernama Jonggring Saloko, yang berarti tempat bersemayam para dewa. Kawah ini memiliki diameter sekitar 500 meter dan kedalaman sekitar 200 meter. Di sekitar kawah terdapat beberapa puncak, seperti Puncak Semeru, Puncak Ajek-ajek, Puncak Kepolo, dan Puncak Lanang. Di lereng gunung terdapat beberapa danau, sungai, air terjun, dan hutan yang menjadi habitat berbagai flora dan fauna.
+            Gunung Semeru merupakan destinasi wisata yang menarik bagi para pecinta alam dan pendaki gunung. Untuk mencapai puncak gunung, para pendaki harus melewati beberapa pos, seperti Ranu Pani, Ranu Kumbolo, Kalimati, Arcopodo, dan Cemoro Tunggal. Pendakian gunung ini membutuhkan waktu sekitar 2-3 hari dengan tingkat kesulitan yang cukup tinggi. Selain itu, para wisatawan juga bisa menikmati keindahan alam di sekitar gunung, seperti Danau Ranu Pani, Danau Ranu Kumbolo, Air Terjun Coban Pelangi, dan Taman Nasional Bromo Tengger Semeru.
+        </item>
+        <item>
+            Gunung Sindoro adalah salah satu gunung berapi di Jawa Tengah yang memiliki ketinggian 3.150 meter di atas permukaan laut. Gunung ini terletak di antara Kabupaten Temanggung dan Kabupaten Wonosobo, dan berdekatan dengan Gunung Sumbing yang lebih tinggi. Gunung Sindoro memiliki kawah aktif yang mengeluarkan asap putih tipis, dan beberapa sumber air panas di lerengnya. Gunung ini juga dikenal sebagai tempat tumbuhnya bunga edelweis Jawa, yang merupakan salah satu flora endemik di Indonesia.
+            Gunung Sindoro merupakan destinasi wisata yang menarik bagi para pecinta alam dan pendaki gunung. Jalur pendakian yang paling populer adalah jalur Kledung, yang berada di sisi barat gunung. Jalur ini memiliki pemandangan yang indah, seperti hamparan kebun teh, perkebunan sayur, dan hutan pinus. Jalur ini juga relatif mudah dan tidak terlalu curam, sehingga cocok untuk pemula. Waktu tempuh dari pos pendaftaran hingga puncak gunung adalah sekitar 5-6 jam.
+            Di puncak Gunung Sindoro, para pendaki dapat menikmati panorama alam yang luar biasa, seperti matahari terbit, awan putih yang membentuk lautan, dan pemandangan Gunung Sumbing yang menjulang di seberang. Di puncak gunung juga terdapat sebuah plang bertuliskan "Puncak Gunung Sindoro 3.150 mdpl" dan sebuah bendera merah putih. Di samping plang tersebut, terdapat sebuah lubang kecil yang disebut "sumur" oleh penduduk setempat, yang konon merupakan sumber air suci bagi mereka.
+        </item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/bromo</item>
+        <item>@drawable/fuji</item>
+        <item>@drawable/merapi</item>
+        <item>@drawable/merbabu</item>
+        <item>@drawable/semeru</item>
+        <item>@drawable/sindoro</item>
+
+    </integer-array>
+
+    
+    
+    
+    
+</resources>
