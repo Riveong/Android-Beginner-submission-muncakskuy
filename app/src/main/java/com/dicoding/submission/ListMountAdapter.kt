@@ -1,10 +1,12 @@
 package com.dicoding.submission
 
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 
 class ListMountAdapter(private val listMount: ArrayList<Mount>) : RecyclerView.Adapter<ListMountAdapter.ListViewHolder>(){
@@ -26,7 +28,35 @@ class ListMountAdapter(private val listMount: ArrayList<Mount>) : RecyclerView.A
         holder.imgPhoto.setImageResource(photo)
         holder.tvName.text = name
         holder.tvDesc.text = desc
+
+
+
+
+
+        holder.itemView.setOnClickListener {
+            val intent = Intent(holder.itemView.context, detailActivity::class.java)
+            intent.putExtra(detailActivity.EXTRA_MOUNT,listMount[holder.adapterPosition])
+            Toast.makeText(holder.itemView.context, "Detail " + listMount[holder.adapterPosition].name, Toast.LENGTH_SHORT).show()
+
+            holder.itemView.context.startActivity(intent)
+
+
+
+
+
+        }
+
+
+
+
+
+
+
+
+
     }
+
+
 
 
 }

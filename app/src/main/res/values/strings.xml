@@ -2,9 +2,12 @@
     <string name="app_name">submission</string>
     <string name="mounts_name">Title</string>
     <string name="desc">Descriptions</string>
-    
-    
-    
+    <string name="content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dolor arcu. Praesent eget magna id mi rhoncus ullamcorper nec a justo. Aenean et imperdiet velit, eu aliquam sapien. Sed viverra mi nec nulla posuere, vel venenatis mauris gravida. Ut sed bibendum felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus elementum tempor ex. Sed bibendum gravida elit. Quisque ultricies mauris eget justo auctor, vitae sodales orci condimentum. In sed rutrum sapien. Proin euismod posuere elit sed efficitur. Cras maximus orci at leo cursus, nec pretium felis accumsan. Vivamus euismod dapibus est, vel bibendum ante commodo eu. Duis mattis ac elit a tincidunt. Praesent elit odio, mattis a dolor maximus, lobortis tincidunt nisl.</string>
+    <string name="title_text">Gunung Default</string>
+    <string name="order_tour">Order Tour</string>
+    <string name="aboutpage">Ong Gabriel \n setsubi9@gmail.com</string>
+
+
     <string-array name="data_name">
         <item>Gunung Bromo</item>
         <item>Gunung Fuji</item>
@@ -12,6 +15,11 @@
         <item>Gunung Merbabu</item>
         <item>Gunung Semeru</item>
         <item>Gunung Sindoro</item>
+        <item>Gunung Celeste</item>
+        <item>Gunung Everest</item>
+        <item>Gunung Kerinci</item>
+        <item>Gunung Rinjani</item>
+        <item>Gunung Slamet</item>
     </string-array>
 
 
@@ -48,6 +56,29 @@
             Gunung Sindoro merupakan destinasi wisata yang menarik bagi para pecinta alam dan pendaki gunung. Jalur pendakian yang paling populer adalah jalur Kledung, yang berada di sisi barat gunung. Jalur ini memiliki pemandangan yang indah, seperti hamparan kebun teh, perkebunan sayur, dan hutan pinus. Jalur ini juga relatif mudah dan tidak terlalu curam, sehingga cocok untuk pemula. Waktu tempuh dari pos pendaftaran hingga puncak gunung adalah sekitar 5-6 jam.
             Di puncak Gunung Sindoro, para pendaki dapat menikmati panorama alam yang luar biasa, seperti matahari terbit, awan putih yang membentuk lautan, dan pemandangan Gunung Sumbing yang menjulang di seberang. Di puncak gunung juga terdapat sebuah plang bertuliskan "Puncak Gunung Sindoro 3.150 mdpl" dan sebuah bendera merah putih. Di samping plang tersebut, terdapat sebuah lubang kecil yang disebut "sumur" oleh penduduk setempat, yang konon merupakan sumber air suci bagi mereka.
         </item>
+        <item>
+            Gunung Sindoro adalah salah satu gunung berapi di Jawa Tengah yang memiliki ketinggian 3.150 meter di atas permukaan laut. Gunung ini terletak di antara Kabupaten Temanggung dan Kabupaten Wonosobo, dan berdekatan dengan Gunung Sumbing yang lebih tinggi. Gunung Sindoro memiliki kawah aktif yang mengeluarkan asap putih tipis, dan beberapa sumber air panas di lerengnya. Gunung ini juga dikenal sebagai tempat tumbuhnya bunga edelweis Jawa, yang merupakan salah satu flora endemik di Indonesia.
+            Gunung Sindoro merupakan destinasi wisata yang menarik bagi para pecinta alam dan pendaki gunung. Jalur pendakian yang paling populer adalah jalur Kledung, yang berada di sisi barat gunung. Jalur ini memiliki pemandangan yang indah, seperti hamparan kebun teh, perkebunan sayur, dan hutan pinus. Jalur ini juga relatif mudah dan tidak terlalu curam, sehingga cocok untuk pemula. Waktu tempuh dari pos pendaftaran hingga puncak gunung adalah sekitar 5-6 jam.
+            Di puncak Gunung Sindoro, para pendaki dapat menikmati panorama alam yang luar biasa, seperti matahari terbit, awan putih yang membentuk lautan, dan pemandangan Gunung Sumbing yang menjulang di seberang. Di puncak gunung juga terdapat sebuah plang bertuliskan "Puncak Gunung Sindoro 3.150 mdpl" dan sebuah bendera merah putih. Di samping plang tersebut, terdapat sebuah lubang kecil yang disebut "sumur" oleh penduduk setempat, yang konon merupakan sumber air suci bagi mereka.
+        </item>
+        <item>
+            Gunung Celeste adalah gunung yang terletak di Pegunungan Rocky Kanada, terkenal dengan jalur pendakian yang menantang dan pemandangan yang menakjubkan. Gunung ini dinamai menurut Celeste, seorang penjelajah Prancis yang pertama kali mendakinya pada tahun 1876. Gunung Celeste menarik ribuan pengunjung setiap tahun, yang datang untuk menikmati keindahan alamnya dan menguji kemampuan mereka. Gunung ini memiliki beberapa rute, mulai dari mudah hingga sulit, dan menawarkan pengalaman berbeda tergantung pada musim. Di musim panas, pendaki dapat mengagumi bunga liar dan air terjun, sementara di musim dingin, mereka dapat merasakan pemandangan bersalju dan danau beku. Gunung Celeste juga merupakan rumah bagi berbagai satwa liar, seperti beruang, serigala, elang, dan moose. Pendaki harus menyadari potensi bahaya dan mengikuti pedoman keselamatan yang disediakan oleh otoritas taman. Gunung Celeste adalah tujuan yang memberi imbalan bagi mereka yang bersedia menghadapi tantangan dan menjelajahi keajaibannya.
+        </item>
+        <item>
+            Mount Everest adalah gunung tertinggi di dunia yang terletak di perbatasan antara Nepal dan Tibet, sebuah wilayah otonom China. Gunung ini merupakan bagian dari rangkaian Pegunungan Himalaya yang terbentuk akibat tabrakan antara Lempeng India-Australia dan Lempeng Eurasia sekitar 40-50 juta tahun yang lalu. Nama Mount Everest berasal dari Sir George Everest, kepala survei India Britania dari tahun 1830 hingga 1843. Nama lain untuk gunung ini adalah Sagarmatha dalam bahasa Sanskerta dan Nepal, Chomolungma dalam bahasa Tibet, dan Zhumulangma Feng dalam bahasa Mandarin. Ketinggian gunung ini adalah 8.849 meter (29.032 kaki) di atas permukaan laut. Banyak pendaki yang tertarik untuk mencapai puncak gunung ini, meskipun menghadapi berbagai bahaya seperti penyakit ketinggian, cuaca buruk, angin kencang, longsoran salju, dan es. Hingga November 2022, tercatat 310 orang meninggal di gunung ini dan lebih dari 200 mayat masih tertinggal di sana. Pendakian pertama yang berhasil dilakukan oleh Tenzing Norgay dan Edmund Hillary pada tahun 1953 dengan menggunakan jalur tenggara dari Nepal.
+        </item>
+
+        <item>
+            Gunung Kerinci adalah gunung berapi tertinggi di Indonesia, dengan ketinggian 3.805 meter di atas permukaan laut. Gunung ini terletak di Provinsi Jambi, di perbatasan dengan Sumatera Barat. Gunung Kerinci merupakan bagian dari Pegunungan Bukit Barisan, yang membentang sepanjang Pulau Sumatera.
+            Gunung Kerinci memiliki kawah aktif yang sering mengeluarkan asap dan abu vulkanik. Kawah ini memiliki diameter sekitar 400 meter dan kedalaman sekitar 200 meter. Gunung Kerinci juga dikelilingi oleh hutan hujan tropis yang kaya akan keanekaragaman hayati. Beberapa flora dan fauna yang hidup di sini adalah rafflesia arnoldii, bunga terbesar di dunia, harimau sumatera, gajah sumatera, dan beruang madu.
+            Gunung Kerinci merupakan destinasi wisata yang menarik bagi para pecinta alam dan petualang. Ada beberapa jalur pendakian yang bisa dipilih, dengan tingkat kesulitan yang berbeda-beda. Salah satu jalur yang populer adalah jalur dari Desa Kersik Tuo, yang membutuhkan waktu sekitar 2-3 hari untuk mencapai puncak. Dari puncak Gunung Kerinci, pengunjung bisa menikmati pemandangan indah dari Danau Gunung Tujuh, danau tertinggi di Asia Tenggara, dan Pegunungan Bukit Barisan.
+        </item>
+        <item>
+            Gunung Rinjani adalah salah satu gunung berapi aktif di Indonesia yang terletak di Pulau Lombok, Nusa Tenggara Barat. Gunung ini memiliki ketinggian 3.726 meter di atas permukaan laut dan merupakan gunung tertinggi kedua di Indonesia setelah Gunung Kerinci. Gunung Rinjani memiliki pesona alam yang luar biasa, mulai dari hutan tropis, danau segara anak, air terjun, kawah, hingga pemandangan matahari terbit dan terbenam yang menakjubkan. Gunung Rinjani juga merupakan tempat suci bagi masyarakat Hindu dan Sasak yang percaya bahwa gunung ini adalah tempat tinggal dewa. Oleh karena itu, banyak wisatawan baik lokal maupun asing yang tertarik untuk mendaki gunung ini dan menikmati keindahan alamnya.
+        </item>
+        <item>
+            Gunung Slamet adalah gunung berapi tertinggi kedua di Pulau Jawa setelah Gunung Semeru. Gunung Slamet memiliki ketinggian 3.428 meter di atas permukaan laut dan terletak di perbatasan lima kabupaten, yaitu Banyumas, Purbalingga, Brebes, Tegal, dan Pemalang. Gunung Slamet merupakan salah satu gunung berapi aktif di Indonesia yang terakhir meletus pada tahun 2014. Gunung Slamet memiliki beberapa kawah, di antaranya Kawah Gendol, Kawah Jurang, Kawah Seruling, dan Kawah Ratu. Gunung Slamet juga memiliki potensi wisata alam yang menarik, seperti pemandangan sunrise, hutan pinus, danau kawah, serta sumber air panas.
+        </item>
     </string-array>
 
 
@@ -58,11 +89,13 @@
         <item>@drawable/merbabu</item>
         <item>@drawable/semeru</item>
         <item>@drawable/sindoro</item>
+        <item>@drawable/celeste</item>
+        <item>@drawable/everest</item>
+        <item>@drawable/kerinci</item>
+        <item>@drawable/rinjani</item>
+        <item>@drawable/slamet</item>
 
     </integer-array>
 
-    
-    
-    
-    
+
 </resources>
